@@ -1,4 +1,4 @@
-i had class room js on vs code and it commited that instead of the next tab..the assignment is below
+i had class room js on vs code and it commited that instead of the next tab..the assignment is below. i tried to add this but kept getting errors
 
 /*
 Exercise 1: maxOfTwoNumbers()
